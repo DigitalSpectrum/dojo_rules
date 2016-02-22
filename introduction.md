@@ -12,4 +12,4 @@ Deadly skills:
 * C#
 * JQuery
 * SQL
-
+* Killing history using git rebase
